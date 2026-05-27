@@ -1,4 +1,4 @@
-# Hi, I'm Johnpaul 👋
+# Hi, I'm Johnpaul
 
 **Data Scientist · ML / AI Engineer · Software Engineer**
 
@@ -8,7 +8,7 @@ I care about work that's **reproducible, measured, and honest** — models that 
 
 ---
 
-## 🛠️ Tech
+## Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -27,33 +27,33 @@ I care about work that's **reproducible, measured, and honest** — models that 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 AI / ML Engineering
+### AI / ML Engineering
 - **[rag-qa-service](https://github.com/JPmbagwu/rag-qa-service)** — A retrieval-augmented Q&A API: retrieves relevant passages, has **Claude** answer grounded in them with **citations**, and ships a retrieval-evaluation harness (recall@k). FastAPI · Anthropic SDK · Docker · CI.
 - **[customer-churn-prediction](https://github.com/JPmbagwu/customer-churn-prediction)** — End-to-end ML: leak-free scikit-learn pipeline, logistic vs. gradient boosting with cross-validation (ROC-AUC / PR-AUC), and permutation-importance explainability.
 
-### 💻 Software Engineering
+### Software Engineering
 - **[url-shortener-api](https://github.com/JPmbagwu/url-shortener-api)** — Production-shaped REST service: FastAPI + SQLAlchemy 2.0, typed, crypto-random short codes, click tracking, full pytest suite, Docker, and GitHub Actions CI.
 
-### 📊 Data Science & Statistics
+### Data Science & Statistics
 - **[onboarding-ab-test-analysis](https://github.com/JPmbagwu/onboarding-ab-test-analysis)** — A/B experiment readout (50k users): power analysis, two-proportion z-test, segmentation. Found a significant **+1.0pp conversion lift** (p = 0.0006), **+17.8%** on mobile paid social.
 - **[revenue-forecasting-2026](https://github.com/JPmbagwu/revenue-forecasting-2026)** — Holt-Winters time-series forecast, **backtested** on held-out data (MAPE 3.38%), with model-derived prediction intervals.
 - **[employee-engagement-survey-sampling](https://github.com/JPmbagwu/employee-engagement-survey-sampling)** — Stratified sampling design: sample-size calculation (95% CI, finite-population correction), proportional allocation, and representativeness validation.
 
 ---
 
-## 📈 GitHub
+## GitHub
 
 ![Johnpaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPmbagwu&show_icons=true&hide_border=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPmbagwu&layout=compact&hide_border=true)
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
-- 📧 Email: **mbagwujohnpaul@ku.edu**
-- 💼 LinkedIn: _add your profile link here_
-- 🐙 GitHub: **[@JPmbagwu](https://github.com/JPmbagwu)**
+- Email: **mbagwujohnpaul@ku.edu**
+- LinkedIn: _add your profile link here_
+- GitHub: **[@JPmbagwu](https://github.com/JPmbagwu)**
 
 > Open to Data Scientist, Machine Learning / AI Engineer, and Software Engineer roles.
