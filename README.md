@@ -2,7 +2,7 @@
 
 **Data Scientist · ML / AI Engineer · Software Engineer**
 
-I build data-driven and AI-powered systems end to end — from statistical modeling and machine learning to production APIs. My foundation is in **physics and statistics** (particle/medical-physics research and graduate coursework in machine learning, computer vision, and statistics), which is where I learned to reason carefully about data, uncertainty, and measurement before trusting a result.
+I build data-driven and AI systems end-to-end, from statistical modeling and machine learning to production APIs. My foundation is in **physics and statistics** (particle/medical-physics research and graduate coursework in machine learning, computer vision, and statistics), which is where I learned to reason carefully about data, uncertainty, and measurement before trusting a result.
 
 I care about work that's **reproducible, measured, and honest** — models that are validated, not just trained; services that are tested, not just written.
 
