@@ -52,7 +52,7 @@ I care about work that's **reproducible, measured, and honest**, models that are
 
 ## Get in touch
 
-- Email: **mbagwujohnpaul@ku.edu**
+- Email: **mbagwujohnpaulchiagoziem@gmail.com**
 - LinkedIn: _add your profile link here_
 - GitHub: **[@JPmbagwu](https://github.com/JPmbagwu)**
 
