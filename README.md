@@ -53,7 +53,7 @@ I care about work that's **reproducible, measured, and honest**, models that are
 ## Get in touch
 
 - Email: **mbagwujohnpaulchiagoziem@gmail.com**
-- LinkedIn: _add your profile link here_
+- LinkedIn: **http://linkedin.com/in/johnpaul-mbagwu-b294b81a9**
 - GitHub: **[@JPmbagwu](https://github.com/JPmbagwu)**
 
 > Open to Data Scientist, Machine Learning / AI Engineer, and Software Engineer roles.
